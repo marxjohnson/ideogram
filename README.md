@@ -33,6 +33,7 @@ Versions of Ideogram may have been built and made available elsewhere by third-p
 If you want to hack on and build Ideogram yourself, you'll need the following dependencies:
 
 * libgtk-3-dev
+* libgranite-dev
 * meson
 * valac
 
